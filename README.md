@@ -55,6 +55,10 @@ and see the results instantly without restarting your app or losing its state.
 
 [![Hot reload animation][]][Hot reload]
 
+### Integration testing support
+
+Flutter also support integration testing using Flutter driver. 
+
 ### Extensible and open model
 
 Flutter works with any development tool (or none at all) but includes editor
